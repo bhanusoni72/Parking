@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477237419536",
+    "project_id": "parkingbooking-41a18",
+    "storage_bucket": "parkingbooking-41a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477237419536:android:5c4cdc5d1070e39dcdf495",
+        "android_client_info": {
+          "package_name": "com.example.parkingbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477237419536-jk8lcrm1ktho34h10juqnn429slikt31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingbooking",
+            "certificate_hash": "345a76d9cba42feb52e4dedaf729a127ba2a8fba"
+          }
+        },
+        {
+          "client_id": "477237419536-l0a9nl4ptplndlgvm5nuljbqv1nemb52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSWdeICWJYkTyDJjpU3deLsoBhAkvP8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477237419536-l0a9nl4ptplndlgvm5nuljbqv1nemb52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
